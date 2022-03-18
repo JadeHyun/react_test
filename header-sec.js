@@ -6,7 +6,7 @@ class SecHeader extends Component{
             <div class="header">
                 <nav class="header_content">
                     <a href="" class="header_content_logo">
-                        <img src="./img/Logo.png" alt="airbnb 메인이미지"/>
+                        <img src="public/clone/Logo.png" alt="airbnb 메인이미지"/>
                         airbnb
                     </a>
                     <span class="header_content_input">
